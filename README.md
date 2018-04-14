@@ -1,1 +1,1 @@
-# jumpstart-blogger
+The creation of a Blogger following The Odin Project.
